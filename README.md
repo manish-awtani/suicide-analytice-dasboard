@@ -1,1 +1,1 @@
-# suicide-analytice-dasboard
+# suicide-analytics-dasboard
